@@ -1,7 +1,9 @@
 package ASD2MODUL2;
 public class nomer2 {
     public static void main(String[] args){
-     int[][] matriks_a = {
+        System.out.println("Nama : Adhen Kurdi");
+        System.out.println("Nim : 20090058");
+        int[][] matriks_a = {
             {10,11},
             {12,13},
             {14,15}
